@@ -80,9 +80,10 @@ include "db_config.php";
                         <nav class="main-menu">
                            <ul class="menu-area-main">
                               <li class="active"> <a href="index.html">Home</a> </li>
-                              <li> <a href="about.html">About</a> </li>
+                              
                               <li> <a href="product.html">product</a> </li>
                               <li> <a href="blog.html"> Service</a> </li>
+                              <li> <a href="about.html">About</a> </li>
                               <li> <a href="contact.html">Contact</a> </li>
                               <li class="mean-last">  <a href="signuppage.php"  type="button" class="btn">Signup</a>   </li>
                              <li><a class="buy" href="loginpage.php">Login</a></li>
